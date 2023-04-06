@@ -52,6 +52,11 @@ nav {
   min-height: 100vh;
 }
 
+img {
+  border: 2px solid crimson;
+  border-radius: 10px;
+}
+
 /* Barras laterais */
 ::-webkit-scrollbar {
   width: 10px;
@@ -88,7 +93,6 @@ footer {
 }
 
 /* Responsividade */
-
 @media (max-width: 600px) {
   .logo {
     display: none;
@@ -97,17 +101,22 @@ footer {
     display: flex;
     justify-content: center;
     background-color: skyblue;
-    border-bottom-left-radius: 30px;
+  }
+  .pokemons {
+    background-color: crimson;
+  }
+  img {
+    border: 2px solid skyblue;
+    border-radius: 10px;
   }
   footer {
     background-color: skyblue;
-    border-top-right-radius: 30px;
   }
   ::-webkit-scrollbar {
     width: 10px;
   }
 
   ::-webkit-scrollbar-thumb {
-    background-color: crimson;
+    background-color: skyblue;
   }
 }

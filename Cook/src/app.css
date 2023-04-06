@@ -79,17 +79,16 @@ img {
   z-index: 0;
 }
 
-img:hover {
+/* img:hover {
   transform: scale(1.1);
   box-shadow: 0 2px 2px grey;
-}
+} */
 
 ::-webkit-scrollbar {
   width: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: 10px;
   background-color: #000;
 }
 
@@ -97,6 +96,11 @@ img:hover {
   margin-top: 1rem;
   text-transform: capitalize;
   color: #fff;
+}
+
+.banner {
+  width: 100%;
+  height: 100%;
 }
 
 img {

@@ -1,6 +1,6 @@
 <header>
     <nav>
-        <a class="logo" href="/inicio">Logo</a>
+        <a class="logo" href="/inicio">Cook</a>
         <ul>
             <li><a href="/inicio">Inicio</a></li>
             <li><a href="/receitas">Receitas</a></li>

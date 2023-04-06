@@ -1,5 +1,22 @@
 <div class="container">
     <section class="pokemons">
-        <h1>Pokemons</h1>
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
+        <img src="http://via.placeholder.com/200" alt="pokemons">
     </section>
 </div>

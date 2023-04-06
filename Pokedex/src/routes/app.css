@@ -58,7 +58,17 @@ nav {
 }
 
 ::-webkit-scrollbar-thumb {
+  background-color: crimson;
+}
+
+.pokemons {
+  padding: 2rem;
   background-color: skyblue;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 3rem;
 }
 
 /* Footer */

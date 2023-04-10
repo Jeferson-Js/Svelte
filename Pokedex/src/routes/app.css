@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+    cursor: url("./banner.jpg"),auto;
+}
+
 header {
   display: flex;
 }
@@ -112,6 +116,7 @@ footer {
   footer {
     background-color: skyblue;
   }
+
   ::-webkit-scrollbar {
     width: 10px;
   }

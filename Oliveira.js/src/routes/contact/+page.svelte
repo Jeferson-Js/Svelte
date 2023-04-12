@@ -4,7 +4,7 @@
 <section class="bg-gray-100 py-24">
   <div class="container mx-auto px-4">
     <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-3xl font-semibold mb-4">Entre em contato</h2>
+      <h2 class="text-3xl font-semibold mb-10 text-blue-500">Entre em contato</h2>
     </div>
     <div class="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
       <div>
@@ -16,7 +16,7 @@
         <p class="text-lg text-gray-700 mb-4">oliveira.jeferson.jso@gmail.com</p>
       </div>
       <div>
-        
+
         <form action="#" method="POST" class="grid grid-cols-1 gap-4">
           <label class="block">
             <span class="text-gray-700 font-semibold">Nome completo</span>

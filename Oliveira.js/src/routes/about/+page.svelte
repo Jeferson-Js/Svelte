@@ -4,11 +4,17 @@
 <section class="bg-white py-24">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="text-center">
-      <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
-        Sobre Nós
+      <h2 class="text-3xl pb-2 font-extrabold text-blue-500 sm:text-4xl">
+        Sobre min!
       </h2>
       <p class="mt-4 text-lg text-gray-500">
-        Somos uma equipe de profissionais dedicados a fornecer as melhores soluções de software para nossos clientes. Com anos de experiência e uma abordagem centrada no cliente, estamos confiantes de que podemos atender às suas necessidades e superar suas expectativas.
+        Sou um desenvolvedor Full Stack apaixonado por criar soluções de software que sejam úteis e fáceis de usar. Com uma ampla experiência em desenvolvimento web, possuo habilidades sólidas em tecnologias back-end e front-end, permitindo-me desenvolver aplicações desde o banco de dados até a interface do usuário.
+
+Meu forte conhecimento em Html5, Css3 e JavaScript, angular, React, Svelte me permite criar interfaces atraentes e interativas, enquanto minhas habilidades em bancos de dados e em tecnologias back-end, como Python, Node.js, e Php, me permitem desenvolver sistemas eficientes e escaláveis.
+
+Sou altamente colaborativo, sempre buscando trabalhar em equipe para atingir os melhores resultados. Com uma sólida experiência em metodologias ágeis e uma abordagem orientada a objetivos, estou sempre buscando aprender e melhorar minhas habilidades como desenvolvedor Full Stack.
+
+Se você está procurando um desenvolvedor Full Stack com uma abordagem focada no usuário e capaz de desenvolver soluções eficientes e escaláveis, fique à vontade para entrar em contato comigo.
       </p>
     </div>
     <div class="mt-20 flex flex-wrap -mx-2">

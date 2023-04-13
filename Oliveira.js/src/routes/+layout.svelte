@@ -3,7 +3,8 @@
   import Footer from "../components/Footer.svelte";
   import Navbar from "../components/Navbar.svelte";
 </script>
-
-<Navbar />
-<slot />
-<Footer />
+<main>
+  <Navbar />
+  <slot />
+  <Footer />
+</main>

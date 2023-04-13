@@ -2,7 +2,7 @@
     <title>Gallery</title>
 </header>
 
-<section class="bg-white dark:bg-gray-900 py-16">
+<section class="bg-white dark:bg-gray-900 py-16 flex min-h-screen">
     <div class="container px-6 py-10 mx-auto">
         <h1 class="text-2xl font-semibold text-center text-blue-500 capitalize lg:text-3xl dark:text-white">Portfólio
         </h1>

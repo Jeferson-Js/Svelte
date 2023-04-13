@@ -88,7 +88,7 @@
                 style="background-image:url('assets/php.png')">
                 <div
                     class="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
-                    <p class="mt-2 text-lg tracking-wider text-white uppercase "><a href="#" target="_blank">PHP</a></p>
+                    <p class="mt-2 text-lg tracking-wider text-white uppercase">PHP</p>
                 </div>
             </div>
 

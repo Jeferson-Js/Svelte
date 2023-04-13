@@ -6,7 +6,7 @@ export const handler = init({
 	assets: new Set(["assets/Angular.png","assets/Bootstrap.png","assets/Css3.png","assets/Docker.png","assets/Git.png","assets/Github.png","assets/html5.png","assets/javascript.png","assets/Jquery.png","assets/Less.png","assets/Logo.png","assets/Mongodb.png","assets/Mysql.png","assets/Node.js.png","assets/php.png","assets/Postman.png","assets/python.png","assets/React.js.png","assets/Sass.png","assets/Svelte.png","assets/tailwindcss.png","assets/TypeScript.png","assets/Vue.png","Oliveira.png"]),
 	mimeTypes: {".png":"image/png"},
 	_: {
-		client: {"start":{"file":"_app/immutable/entry/start.138bdf5a.js","imports":["_app/immutable/entry/start.138bdf5a.js","_app/immutable/chunks/index.f5e86a83.js","_app/immutable/chunks/singletons.3aaed9a3.js"],"stylesheets":[],"fonts":[]},"app":{"file":"_app/immutable/entry/app.a5c1738a.js","imports":["_app/immutable/entry/app.a5c1738a.js","_app/immutable/chunks/index.f5e86a83.js"],"stylesheets":[],"fonts":[]}},
+		client: {"start":{"file":"_app/immutable/entry/start.a531c330.js","imports":["_app/immutable/entry/start.a531c330.js","_app/immutable/chunks/index.f5e86a83.js","_app/immutable/chunks/singletons.33b71551.js"],"stylesheets":[],"fonts":[]},"app":{"file":"_app/immutable/entry/app.39fdcc1a.js","imports":["_app/immutable/entry/app.39fdcc1a.js","_app/immutable/chunks/index.f5e86a83.js"],"stylesheets":[],"fonts":[]}},
 		nodes: [
 			() => import('../server/nodes/0.js'),
 			() => import('../server/nodes/1.js'),

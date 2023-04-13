@@ -17,7 +17,7 @@
                 style="background-image:url('assets/html5.png')">
                 <div
                     class="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
-                    <p class="mt-2 text-lg tracking-wider text-white uppercase "><a href="https://github.com/Jeferson-Js/Html5-Css3" target="_blank">Html5</a></p>
+                    <p class="mt-2 text-lg tracking-wider text-white uppercase ">Html</p>
                 </div>
             </div>
  <div class="overflow-hidden bg-cover rounded-lg cursor-pointer h-72 group bg-center"

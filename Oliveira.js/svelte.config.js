@@ -1,13 +1,12 @@
 import preprocess from "svelte-preprocess";
-import adapter from "@sveltejs/adapter-auto";
+import adapter from "@sveltejs/adapter-static";
 
 const config = {
   kit: {
     adapter: adapter(),
-    target: '#svelte'
+    target: "#svelte",
   },
   preprocess: preprocess(),
 };
 
 export default config;
-

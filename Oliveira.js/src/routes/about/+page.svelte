@@ -21,28 +21,28 @@ Se você está procurando um desenvolvedor Full Stack com uma abordagem focada n
       <div class="p-2 md:w-1/3">
         <div class="bg-gray-100 p-8 rounded-lg shadow shadow-slate-600">
           <div class="flex justify-center mb-4">
-            <img class="h-12" src="/images/icons/code.svg" alt="Ícone de código">
+            <img class="h-12 rounded-full" src="/assets/Logo.png" alt="logo do card">
           </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-2">Desenvolvimento de Software</h3>
-          <p class="text-gray-500 leading-relaxed">Nossa equipe de desenvolvimento está pronta para criar soluções personalizadas para suas necessidades exclusivas. Desde aplicativos da web até sistemas de gerenciamento de conteúdo, podemos ajudá-lo a atingir seus objetivos de negócios.</p>
+          <h3 class="text-xl font-semibold mb-2 text-blue-500">Qualidade superior</h3>
+          <p class="text-gray-500 leading-relaxed">"Eu sou movido pela paixão de estar sempre à frente das tendências tecnológicas, criando soluções inovadoras que transformam o futuro."</p>
         </div>
       </div>
       <div class="p-2 md:w-1/3">
         <div class="bg-gray-100 p-8 rounded-lg shadow shadow-slate-600">
           <div class="flex justify-center mb-4">
-            <img class="h-12" src="/images/icons/design.svg" alt="Ícone de design">
+            <img class="h-12 rounded-full" src="/assets/Logo.png" alt="logo do card">
           </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-2">Design de Interface de Usuário</h3>
-          <p class="text-gray-500 leading-relaxed">Não apenas criamos software funcional, mas também cuidamos de sua aparência. Nossa equipe de design se concentra em criar experiências de usuário envolventes e intuitivas para seus clientes.</p>
+          <h3 class="text-xl font-semibold mb-2 text-blue-500">Trabalho em equipe</h3>
+          <p class="text-gray-500 leading-relaxed">"O sucesso da equipe é a minha maior conquista, pois eu acredito que juntos podemos alcançar objetivos inimagináveis, transformando desafios em oportunidades de crescimento e aprendizado."</p>
         </div>
       </div>
       <div class="p-2 md:w-1/3">
         <div class="bg-gray-100 p-8 rounded-lg shadow shadow-slate-600">
           <div class="flex justify-center mb-4">
-            <img class="h-12" src="/images/icons/support.svg" alt="Ícone de suporte">
+            <img class="h-12 rounded-full" src="/assets/Logo.png" alt="logo do card">
           </div>
-          <h3 class="text-xl font-semibold text-gray-900 mb-2">Suporte Técnico</h3>
-          <p class="text-gray-500 leading-relaxed">Não termina com a entrega do software. Estamos aqui para fornecer suporte contínuo e garantir que suas soluções funcionem sem problemas. Se você precisar de ajuda, nossa equipe de suporte está à disposição para ajudá-lo.</p>
+          <h3 class="text-xl font-semibold mb-2 text-blue-500">Soft skills</h3>
+          <p class="text-gray-500 leading-relaxed">"Para ser um desenvolvedor fullstack de sucesso, é preciso habilidades técnicas de ponta, mas também é fundamental dominar habilidades sociais, como a comunicação clara, a resolução de conflitos e a capacidade de liderança, trabalhando sempre com humildade, empatia e respeito mútuo."</p>
         </div>
       </div>
     </div>
